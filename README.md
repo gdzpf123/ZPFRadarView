@@ -1,6 +1,6 @@
 # ZPFRadarView
 
-#import "CSTRadarView.h"
+#import "CSTRadarStatisticsView.h"
 
 
 - (void)viewDidLoad {
